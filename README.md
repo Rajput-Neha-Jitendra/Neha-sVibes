@@ -1,2 +1,2 @@
-# Neha-sVibes
+# NehasVibes
 Welcome to My Portfolio 
